@@ -1,0 +1,6 @@
+export const TRANSFER_CONTRACT_ADDRESS = '0x0532f89a79aB8df6f06Fc65ad7e69b94D196E3aF';
+export const CLAIM_TOKEN_CONTRACT_ADDRESS = '0x46167A7973aac3644cDdFf62c94a6e518cCf22F6';
+
+export const HERO_IMAGE_URL = 'ipfs://QmcEpkFf8qQShQ1uLNKqkThMXrHpdxQ3CDTramRCK5hG8Y/79a6e40b-0e59-4288-8519-84a5f76e72cd.jpg';
+export const FEATURES_IMAGE_URL = 'ipfs://QmckQJWCesjuVjgaM4E2TjYeuu7A8HxPNpy3UZ9kpCz1Z7/8faabff0-4520-42b8-a9ba-47d9d0e7efff.jpg';
+export const CLAIM_TOKEN_IMAGE = 'ipfs://QmdrXD23jZ2s3yjeFs6u6AVfpbdZj1Tjw3LvWfpTQp1Bv5/07055471-25b2-45da-bdd7-9a74b13763cb.jpg';
